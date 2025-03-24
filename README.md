@@ -35,16 +35,6 @@ Passionate about building scalable, modern apps with clean architecture and grea
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arthurvaliullin&show_icons=true&theme=github_dark" alt="Arthur's GitHub Stats" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=arthurvaliullin&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ## 📫 Let’s Connect
 
 - [LinkedIn](https://www.linkedin.com/in/arthurvaliullin)
