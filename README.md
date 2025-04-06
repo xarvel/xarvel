@@ -32,6 +32,7 @@ Passionate about building scalable, modern apps with clean architecture and grea
 - AI integration in mobile and web apps
 - Advanced Web3 & Solidity smart contracts
 - Clean architecture in React Native with GraphQL and Relay
+- Real-time communication with WebRTC
 
 ---
 
